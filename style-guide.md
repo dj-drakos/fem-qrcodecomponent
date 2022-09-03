@@ -14,13 +14,13 @@ The designs were created to the following widths:
 - Grayish blue: hsl(220, 15%, 55%)
 - Dark blue: hsl(218, 44%, 22%)
 
-## Typography
+<!-- ## Typography -->
 
-### Body Copy
+<!-- ### Body Copy -->
 
-- Font size (paragraph): 15px
+<!-- - Font size (paragraph): 15px -->
 
-### Font
+<!-- ### Font -->
 
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
-- Weights: 400, 700
+<!-- - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
+- Weights: 400, 700 -->
