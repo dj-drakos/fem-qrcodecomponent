@@ -1,3 +1,5 @@
+import './Component.css'
+
 export default function Component() {
 
   return (
