@@ -6,7 +6,7 @@ function App() {
   
   return (
     <div className="App">
-      <Component role='main'/>
+      <Component role="main"/>
       <Footer />
     </div>
   );
